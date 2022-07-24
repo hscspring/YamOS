@@ -12,7 +12,7 @@
 
 ## Lab
 
-- [Lab-env](./lab-env.md)
+- [Lab0-env](./lab0-env.md)
 - [Lab0-0](./lab0-0.md)
 - [Lab0-1](./lab0-1.md)
 
